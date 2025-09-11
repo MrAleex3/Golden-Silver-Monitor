@@ -1,6 +1,6 @@
 # ⚡ GTS Silver-Golden Finder
 
-**GTS Silver-Golden Finder** es una herramienta que permite monitorear los registros de producción en múltiples equipos, detectando automaticamente la primera *Golden* válida (basada en repeticiones de seriales) y el estado de las *Silver*. Diseñada para entornos de manufactura, asegura que los equipos cumplan con los controles de calidad por turno y notifica por correo electrónico cuando se detectan fallos o ausencias.
+**Golden&Silver Monitor** es una herramienta que permite monitorear los registros de producción en múltiples equipos, detectando automaticamente la primera *Golden* válida (basada en repeticiones de seriales) y el estado de las *Silver*. Diseñada para entornos de manufactura, asegura que los equipos cumplan con los controles de calidad por turno y notifica por correo electrónico cuando se detectan fallos o ausencias.
 
 <img width="1001" height="460" alt="image" src="https://github.com/user-attachments/assets/67d4727a-9e34-4cf6-b480-0c78732c6ec5" />
 

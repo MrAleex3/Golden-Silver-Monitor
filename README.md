@@ -48,5 +48,3 @@ Este proyecto está bajo la Licencia MIT.
 
 **Jose Espinoza**  
 Foxconn México · Herramienta desarrollada para el departamento de testing funcional
-  ```bash
-  pip install pillow

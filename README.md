@@ -1,4 +1,4 @@
-# ⚡ GTS Silver-Golden Finder
+# ⚡ Golden&Silver Monitor
 
 **Golden&Silver Monitor** es una herramienta que permite monitorear los registros de producción en múltiples equipos, detectando automaticamente la primera *Golden* válida (basada en repeticiones de seriales) y el estado de las *Silver*. Diseñada para entornos de manufactura, asegura que los equipos cumplan con los controles de calidad por turno y notifica por correo electrónico cuando se detectan fallos o ausencias.
 
